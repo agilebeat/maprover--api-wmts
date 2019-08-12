@@ -1,4 +1,4 @@
-# Install two-bucket-lambda-infer
+# Install wmts proxy service
 
 
 ### Preparing Deployment environment
